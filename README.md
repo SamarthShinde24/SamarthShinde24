@@ -108,3 +108,60 @@ I believe in learning through practice, building real-world applications and con
 | 🚀 Build Real-World Applications | 🎯 Goal      |
 | 🤖 Explore AI Development        | 🔄 Exploring |
 
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamarthShinde24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthShinde24&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
+
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=SamarthShinde24&theme=tokyonight&hide_border=true&border_radius=10" /> </div>
+
+🐍 Contribution Graph
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
+
+📌 My Repositories
+<div align="center"> <a href="https://github.com/SamarthShinde24?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br>
+
+🚧 More projects coming soon.
+I'm currently focusing on DSA and building my development skills.
+
+💡 My Philosophy
+<div align="center">
+LEARN → PRACTICE → BUILD → FAIL → DEBUG → IMPROVE
+<br>
+
+"Don't just learn technology. Build something with it." 🚀
+
+</div>
+🌐 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/samarth-shinde-b43223273/"> <img src="https://img.shields.io/badge/LinkedIn-Samarth%20Shinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<br><br>
+
+<a href="https://www.instagram.com/pvvttt_46/"> <img src="https://img.shields.io/badge/Instagram-pvvttt__46-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+
+<br><br>
+
+<a href="mailto:samarthshinde612@gmail.com"> <img src="https://img.shields.io/badge/Email-samarthshinde612%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<br> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+awesome+together+%F0%9F%9A%80" />
+
+<br><br>
+
+⭐ Thanks for stopping by!
+
+Samarth Shinde • Computer Engineering • India
+
+</div> <br> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
+
+## 🖼️ Your photo — important
+
+I've used:
+
+```html
+<img src="./assets/profile.jpg" width="300"/>
+SamarthShinde24
+│
+├── README.md
+│
+└── assets
+    └── profile.jpg
+<img width="1086" height="1448" alt="PP-Linkedin 3 main" src="https://github.com/user-attachments/assets/ed2321ad-adde-4831-94af-be2379675fe9" />
+profile.jpg
