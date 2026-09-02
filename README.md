@@ -98,3 +98,13 @@ I believe in learning through practice, building real-world applications and con
 │  Status      : Building & Learning 🚀                    │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
+
+| Goal                             | Status       |
+| -------------------------------- | ------------ |
+| 🧠 Master DSA                    | 🔄 Learning  |
+| ☕ Improve Java                   | 🔄 Learning  |
+| 🌐 Become a Full Stack Developer | 🎯 Goal      |
+| 🤝 Contribute to Open Source     | 🎯 Goal      |
+| 🚀 Build Real-World Applications | 🎯 Goal      |
+| 🤖 Explore AI Development        | 🔄 Exploring |
+
