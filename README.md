@@ -55,7 +55,7 @@ I believe in learning through practice, solving problems, and building real-worl
 <strong>Samarth Shinde</strong>
 
 <br>
-
+<br>
 <code>he/him</code>
 
 <br><br>
