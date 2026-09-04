@@ -2,42 +2,117 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Samarth%20Shinde&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+# 👨‍💻 Samarth Shinde
 
-<br>
+### 🤖 AI Enthusiast • 💻 Full Stack Developer • 🧠 Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br><br>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile Views"/>
-</a>
+<p>
+  <a href="https://github.com/SamarthShinde24">
+    <img src="https://img.shields.io/github/followers/SamarthShinde24?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/SamarthShinde24">
+    <img src="https://komarev.com/ghpvc/?username=SamarthShinde24&label=Profile%20Views&style=for-the-badge">
+  </a>
+</p>
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-
 ## 👨‍💻 About Me
 
-Hi there! 👋 I'm **Samarth Shinde**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm a **3rd-year B.Tech Computer Engineering student** passionate about building software, exploring Artificial Intelligence, and solving challenging problems.
+<pre>
+                 .::.
+          .  :=++*###+=---:::
+        .*#**#@%%##%%########*:
+       -#%%%%#%%%%%%%###%%%%%%#:
+      .%%%%%%%%%%%%%%%%%%%%%%%%#.
+       *%%%%%%%%%%%%#***###%%#%%-
+       =%%%%%*++**++====--=*%##%*.
+       -%%%%*=---:::::--:::-*%%#%=
+        +%%+=====-::-=+++==-:*%%#:
+        .#%==++**+-:-++++=-:::#*=.
+         .*=-=====-..:--:...::+===
+         .+=-::::--::-----::::-==:
+         .=+-::--=+==+=-=+=--:=-.
+          .=---=++=========----
+            .:-=======----=---:
+              :-==------=====-:
+               .===+++++++==--:..
+                :========------.-+.
+               .---==---------: -##+-.
+              :#-:+=-=------=-  *#####*+=-:.
+           .-*#%= :++=======:  -###########**+=-:..
+       .-+*#%##%*  .=+===--.  .*#################**+
+   .-=*##%#######:.:.:---. .:.=#####################
+:=*#############%=:.. .--  ..:######################
+################%#.  .  :. . =#######################
+#################%-         .#######################
+#################%*         =##################%####
+%##################:       .##################%##%##
+#%################%*       =%################%%%####
+#%%################%-      *################%%%%%###
+##%%###############%*.    -%####%###########%%%%%%##
+%%%%%###############%=    +%###%##########%%%%%#####
+##%%%%%#############%#.  .####%########%%%%%%%%%####
+###%%#*%%%#######%%##%+  -%##%%##%%%%%%%%%%%%%%##%##
+%%#%%=:*%%%%######%%#%%: *%#%%##%%%%%%%%%%%%%#######
+</pre>
 
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Building applications with **Full Stack Development**
-- 🧠 Strengthening my **Data Structures & Algorithms**
-- ☕ Currently coding with **Java**
-- 🌱 Learning new technologies and improving every day
-- 🚀 Interested in building **real-world projects**
-- 🎯 Goal: Become a strong **Full Stack Developer & AI Engineer**
+</td>
 
-> **Learn • Build • Solve • Repeat 🚀**
+<td width="50%" valign="top">
 
----
+### Hey there! 👋
 
+I'm **Samarth Shinde**, a 3rd-year B.Tech Computer Engineering student at **Ramrao Adik Institute of Technology**.
+
+I'm passionate about:
+
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 🚀 Building real-world applications
+- 🔧 Software Engineering
+- 🌱 Continuous Learning
+
+Currently, I'm focusing on strengthening my **DSA skills with Java** while building a strong foundation in **Full Stack Development**.
+<br>
+
+```text
+
+╭────────────────────────────────────╮
+│                                    │
+│  Learn  •  Build  •  Solve  • 🚀  │
+│                                    │
+╰────────────────────────────────────╯
+</td> </tr> </table>
+🛠️ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" /> </p>
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /> </p>
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" /> </p>
+🧠 What I'm Learning
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  ☕ Java                    █████████░░  85%       │
+│  🧠 Data Structures         ████████░░░  75%       │
+│  🌐 Full Stack Development  ████████░░░  80%       │
+│  🤖 Artificial Intelligence ██████░░░░░  60%       │
+│  🗄️ Databases               ███████░░░░  70%       │
+│  🐳 Docker                  █████░░░░░░  50%       │
+│                                                    │
+└────────────────────────────────────────────────────┘
 
 <!-- ======================= TECH STACK ======================= -->
 🛠️ Tech Stack
