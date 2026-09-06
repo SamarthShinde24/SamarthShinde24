@@ -1,221 +1,351 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Enterprise+Scale;AI+%2F+ML+Engineer;Full+Stack+%2F+Product+Engineer;Building+Systems+That+Scale;Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/CGPA-9.0%2F10-7C3AED?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/📍-India-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+
+<br/><br/>
+
+<a href="https://yourportfolio.dev">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="mailto:you@example.com">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=8b5cf6&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers" />
+<img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=6d28d9&labelColor=1a1a2e&label=Stars" />
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 About Me
+
+```yaml
+name: "Your Name"
+role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
+focus: "Building scalable, production-grade systems with intelligent automation"
+```
+
+I'm a **software engineer** specializing in designing and shipping **high-performance, distributed systems** that bridge the gap between robust backend architecture and intelligent, ML-driven product experiences. My work spans **full-stack product engineering**, **applied machine learning**, and **cloud-native infrastructure**, with a strong bias toward writing clean, testable, and maintainable code.
+
+I approach engineering with a **product mindset** — every system I build is evaluated not just on technical correctness, but on scalability, cost-efficiency, security posture, and end-user impact. I enjoy working across the stack: from designing resilient APIs and data pipelines to fine-tuning models and shipping polished user-facing interfaces.
+
+<table align="center">
+<tr>
+<td>
+
+**🎯 Open To**
+- Full-Time Software Engineering Roles (SDE / Backend / AI Engineer)
+- Open Source Collaboration
+- Research Internships in Applied ML
+- Freelance / Contract Product Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,go&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vue&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,nginx,git&theme=dark" />
+
+---
+
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
-# 👨‍💻 Samarth Shinde
-
-### 🤖 AI Enthusiast • 💻 Full Stack Developer • 🧠 Problem Solver
-
-<p>
-  <a href="https://github.com/SamarthShinde24">
-    <img src="https://img.shields.io/github/followers/SamarthShinde24?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/SamarthShinde24">
-    <img src="https://komarev.com/ghpvc/?username=SamarthShinde24&label=Profile%20Views&style=for-the-badge">
-  </a>
-</p>
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| **Deep Learning** | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers, PyTorch & TensorFlow pipelines |
+| **NLP / LLMs** | ⭐⭐⭐⭐⭐ | Fine-tuning, RAG systems, prompt engineering, embeddings, vector search |
+| **MLOps** | ⭐⭐⭐⭐ | Model serving, CI/CD for ML, experiment tracking, drift monitoring |
+| **Computer Vision** | ⭐⭐⭐⭐ | Object detection, segmentation, OpenCV pipelines |
+| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines, Spark, Airflow, data warehousing |
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>🔹 DistributedCache — High-Throughput Distributed Caching Layer</b></summary>
+<br/>
 
-<pre>
-                 .::.
-          .  :=++*###+=---:::
-        .*#**#@%%##%%########*:
-       -#%%%%#%%%%%%%###%%%%%%#:
-      .%%%%%%%%%%%%%%%%%%%%%%%%#.
-       *%%%%%%%%%%%%#***###%%#%%-
-       =%%%%%*++**++====--=*%##%*.
-       -%%%%*=---:::::--:::-*%%#%=
-        +%%+=====-::-=+++==-:*%%#:
-        .#%==++**+-:-++++=-:::#*=.
-         .*=-=====-..:--:...::+===
-         .+=-::::--::-----::::-==:
-         .=+-::--=+==+=-=+=--:=-.
-          .=---=++=========----
-            .:-=======----=---:
-              :-==------=====-:
-               .===+++++++==--:..
-                :========------.-+.
-               .---==---------: -##+-.
-              :#-:+=-=------=-  *#####*+=-:.
-           .-*#%= :++=======:  -###########**+=-:..
-       .-+*#%##%*  .=+===--.  .*#################**+
-   .-=*##%#######:.:.:---. .:.=#####################
-:=*#############%=:.. .--  ..:######################
-################%#.  .  :. . =#######################
-#################%-         .#######################
-#################%*         =##################%####
-%##################:       .##################%##%##
-#%################%*       =%################%%%####
-#%%################%-      *################%%%%%###
-##%%###############%*.    -%####%###########%%%%%%##
-%%%%%###############%=    +%###%##########%%%%%#####
-##%%%%%#############%#.  .####%########%%%%%%%%%####
-###%%#*%%%#######%%##%+  -%##%%##%%%%%%%%%%%%%%##%##
-%%#%%=:*%%%%######%%#%%: *%#%%##%%%%%%%%%%%%%#######
-</pre>
+A horizontally scalable, in-memory distributed caching system built to reduce database load under high-concurrency workloads, supporting consistent hashing and automatic failover.
 
-</td>
+| Attribute | Details |
+|---|---|
+| **Stack** | Go, Redis Cluster, gRPC, Docker, Kubernetes |
+| **Scale** | 50M+ requests/day, 200+ nodes in simulated cluster |
+| **Performance** | P99 latency reduced from 180ms → 12ms |
+| **Security** | mTLS between nodes, RBAC-based access control |
+| **Impact** | 65% reduction in primary DB load |
+| **Repository** | [github.com/yourusername/distributed-cache](https://github.com/yourusername/distributed-cache) |
 
-<td width="50%" valign="top">
+Engineered a consistent-hashing ring architecture with virtual nodes to ensure even key distribution and minimal cache invalidation during scale-out events. Implemented gossip-based failure detection to enable sub-second failover without a single point of failure.
 
-### Hey there! 👋
+</details>
 
-I'm **Samarth Shinde**, a 3rd-year B.Tech Computer Engineering student at **Ramrao Adik Institute of Technology**.
+<details>
+<summary><b>🔹 RAGPilot — Enterprise Retrieval-Augmented Generation Platform</b></summary>
+<br/>
 
-I'm passionate about:
+A production-grade RAG platform enabling enterprises to query internal documentation using LLMs with grounded, citation-backed responses.
 
-- 🤖 Artificial Intelligence
-- 💻 Full Stack Development
-- 🧠 Data Structures & Algorithms
-- 🚀 Building real-world applications
-- 🔧 Software Engineering
-- 🌱 Continuous Learning
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, FastAPI, LangChain, Pinecone, React, PostgreSQL |
+| **Scale** | 1M+ documents indexed, 10K+ daily queries |
+| **Performance** | Sub-second retrieval, 94% answer relevance score |
+| **Security** | Row-level document access control, encrypted vector store |
+| **Impact** | Reduced internal support ticket volume by 40% |
+| **Repository** | [github.com/yourusername/ragpilot](https://github.com/yourusername/ragpilot) |
 
-Currently, I'm focusing on strengthening my **DSA skills with Java** while building a strong foundation in **Full Stack Development**.
-<br>
+Designed a hybrid retrieval pipeline combining dense vector search with BM25 keyword ranking to improve grounding accuracy. Built a feedback loop that logs user corrections to continuously fine-tune the re-ranking model.
 
-```text
+</details>
 
-╭────────────────────────────────────╮
-│                                    │
-│  Learn  •  Build  •  Solve  • 🚀  │
-│                                    │
-╰────────────────────────────────────╯
-</td> </tr> </table>
-🛠️ Tech Stack
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" /> </p>
-🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring" /> </p>
-🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /> </p>
-🔧 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" /> </p>
-🧠 What I'm Learning
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  ☕ Java                    █████████░░  85%       │
-│  🧠 Data Structures         ████████░░░  75%       │
-│  🌐 Full Stack Development  ████████░░░  80%       │
-│  🤖 Artificial Intelligence ██████░░░░░  60%       │
-│  🗄️ Databases               ███████░░░░  70%       │
-│  🐳 Docker                  █████░░░░░░  50%       │
-│                                                    │
-└────────────────────────────────────────────────────┘
+<details>
+<summary><b>🔹 CommerceCore — Full-Stack E-Commerce Microservices Platform</b></summary>
+<br/>
 
-<!-- ======================= TECH STACK ======================= -->
-🛠️ Tech Stack
-👨‍💻 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" /> </p>
-🌐 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" /> </p>
-⚙️ Backend & Database
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" /> </p>
-🔧 Tools & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" /> </p>
-<!-- ======================= GITHUB STATS ======================= -->
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </div>
-<!-- ======================= ACTIVITY ======================= -->
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div>
-<!-- ======================= PROJECTS ======================= -->
-🚀 Featured Projects
-💻 Project 1 — Full Stack Application
+A modular, microservices-based e-commerce backend with independent services for catalog, orders, payments, and inventory.
 
-Description:
-A full-stack web application designed to solve a real-world problem.
+| Attribute | Details |
+|---|---|
+| **Stack** | Node.js, Next.js, PostgreSQL, RabbitMQ, Docker, AWS ECS |
+| **Scale** | 100K+ MAU, 500K+ orders processed |
+| **Performance** | 99.95% uptime, avg API response 80ms |
+| **Security** | OAuth2 + JWT, PCI-DSS aligned payment flow |
+| **Impact** | Enabled 3x checkout throughput during peak sales |
+| **Repository** | [github.com/yourusername/commercecore](https://github.com/yourusername/commercecore) |
 
-Tech:
-React Node.js Express MongoDB
+Architected an event-driven order pipeline using message queues to decouple inventory, payment, and notification services, allowing independent scaling and zero-downtime deployments.
 
-Features:
+</details>
 
-🔐 Authentication
-📊 Interactive dashboard
-⚡ REST API
-📱 Responsive UI
-<a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/View%20Project-22D3EE?style=for-the-badge&logo=github&logoColor=black"/> </a>
-🤖 Project 2 — AI / ML Project
+---
 
-Description:
-An AI-powered project exploring machine learning and intelligent automation.
+## 💼 Experience
 
-Tech:
-Python Machine Learning AI
+### Software Engineer
+**Company Name Pvt. Ltd.** · *Jan 2024 – Present*
 
-Features:
+Working on backend infrastructure and applied ML systems for a product handling millions of daily active interactions.
 
-🧠 Machine learning model
-📊 Data processing
-🤖 Prediction / automation
-📈 Model evaluation
-<a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/View%20Project-22D3EE?style=for-the-badge&logo=github&logoColor=black"/> </a>
-🌐 Project 3 — Web Development
+- Designed and shipped microservices handling 10M+ daily requests with 99.9% uptime
+- Built ML-powered recommendation pipeline improving engagement metrics by 22%
+- Led migration from monolith to containerized microservices on Kubernetes
+- Mentored 3 junior engineers and established code review standards
 
-Description:
-A responsive web application focused on clean UI, usability and performance.
+`Python` `Go` `Kubernetes` `PostgreSQL` `AWS` `PyTorch`
 
-Tech:
-HTML CSS JavaScript React
+### Software Engineering Intern
+**Previous Company Inc.** · *May 2023 – Aug 2023*
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/View%20Project-22D3EE?style=for-the-badge&logo=github&logoColor=black"/> </a>
-<!-- ======================= LEARNING ======================= -->
-🌱 Currently Learning
+Contributed to full-stack feature development and internal tooling for a fast-growing SaaS product.
+
+- Built internal analytics dashboard used by 50+ team members daily
+- Optimized database queries reducing report generation time by 70%
+- Collaborated cross-functionally with product and design teams
+
+`React` `Node.js` `MongoDB` `Docker`
+
+---
+
+## 🏆 Achievements
+
 <div align="center">
-Area	Progress
-☕ Java	█████████░ 90%
-🧠 DSA	███████░░░ 70%
-🌐 Full Stack Development	████████░░ 80%
-🤖 AI / ML	██████░░░░ 60%
-🗄️ Databases	███████░░░ 70%
-🐳 Docker	█████░░░░░ 50%
+
+| Recognition | Details |
+|---|---|
+| 🥇 **Smart India Hackathon — Winner** | National-level hackathon, AI/ML track, team of 6 |
+| 🎖️ **Google Summer of Code** | Contributed to open-source ML tooling organization |
+| 📜 **Published Research Paper** | IEEE Conference on Applied AI Systems, 2024 |
+| 🏅 **Top 1% LeetCode Contest Rating** | Consistent top-tier competitive programming performance |
+| 🌟 **Open Source Maintainer** | Maintain a library with 1K+ GitHub stars |
+
 </div>
-<!-- ======================= DSA ======================= -->
-🧠 Problem Solving
 
-I'm actively improving my problem-solving skills through:
+---
 
-Arrays & Strings
-Linked Lists
-Stacks & Queues
-Recursion
-Trees
-Graphs
-Sorting & Searching
-Dynamic Programming
-Time & Space Complexity
+## 📜 Certifications
 
-<!-- ======================= GOALS ======================= -->
-🎯 2026 Goals
- 🚀 Build 5+ strong full-stack projects
- 🤖 Build practical AI projects
- 🧠 Improve DSA & problem solving
- 🌐 Learn advanced backend development
- 🐳 Learn Docker & deployment
- ☁️ Explore cloud technologies
- 🤝 Contribute to open source
- 💼 Prepare for software engineering opportunities
+**AWS**
 
- <!-- ======================= GITHUB TROPHIES ======================= -->
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" /> </div>
+<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" />
 
-<!-- ======================= CONNECT ======================= -->
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+**Oracle**
 
-<!-- ======================= FOOTER ======================= --> <div align="center">
-💡 "The best way to learn is to build."
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer"/> </div> ```
+<img src="https://img.shields.io/badge/Oracle%20Certified-Java%20Programmer-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e" />
+
+**NPTEL**
+
+<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e" />
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" />
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/yourusername">
+  <img src="https://img.shields.io/badge/LeetCode-Top%205%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://geeksforgeeks.org/user/yourusername">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-500%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://hackerrank.com/yourusername">
+  <img src="https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://codechef.com/users/yourusername">
+  <img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced distributed systems design
+  - LLM fine-tuning and inference optimization
+  - Systems-level performance engineering
+
+building:
+  - Open-source RAG orchestration framework
+  - Scalable backend infrastructure for AI products
+
+exploring:
+  - Agentic AI systems and multi-agent orchestration
+  - Edge deployment for ML models
+
+open_to:
+  - Full-time Software Engineering / AI Engineering roles
+  - Open source collaboration
+  - Technical writing and mentorship
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:you@example.com">
+  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://yourportfolio.dev">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Code is the closest thing we have to magic — the discipline is in making it reliable."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+
+</div>
