@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Samarth%20Shinde&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Enterprise+Scale;AI+%2F+ML+Engineer;Full+Stack+%2F+Product+Engineer;Building+Systems+That+Scale;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+Engineer;Full+Stack+%2F+Product+Engineer;Building+Systems+That+Scale;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/CGPA-9.0%2F10-7C3AED?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/CGPA-8.0%2F10-7C3AED?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/📍-India-8B5CF6?style=flat-square&labelColor=1a1a2e" />
 
 <br/><br/>
@@ -17,10 +17,10 @@
 <a href="https://yourportfolio.dev">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="www.linkedin.com/in/samarth-shinde-b43223273">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="mailto:you@example.com">
+<a href="samarthshinde612@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
 <a href="https://github.com/yourusername">
@@ -42,8 +42,8 @@
 ## 🧠 About Me
 
 ```yaml
-name: "Your Name"
-role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
+name: "Samarth Shinde"
+role: "Software Engineer | AI Engineer | Full Stack Developer"
 focus: "Building scalable, production-grade systems with intelligent automation"
 ```
 
