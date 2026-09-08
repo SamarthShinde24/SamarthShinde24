@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/CGPA-8.0%2F10-7C3AED?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/CGPA-7.08%2F10-7C3AED?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/📍-India-8B5CF6?style=flat-square&labelColor=1a1a2e" />
 
 <br/><br/>
